@@ -40,10 +40,6 @@ Este repositório contém o **backend** do sistema, desenvolvido para fornecer u
 
 - **CORS** – Middleware para habilitar o compartilhamento de recursos entre origens diferentes.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30" height="30"/>
-
 ## Como Rodar o Projeto Localmente
 
 ### Pré-requisitos
